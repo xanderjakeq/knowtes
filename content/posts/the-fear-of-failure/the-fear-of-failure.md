@@ -1,6 +1,7 @@
 ---
-title: The fear of Failure
-published_date: 2021-06-16
+title: "The fear of Failure"
+date: "2021-06-16"
+lastmod: :git
 ---
 
 ## Definition

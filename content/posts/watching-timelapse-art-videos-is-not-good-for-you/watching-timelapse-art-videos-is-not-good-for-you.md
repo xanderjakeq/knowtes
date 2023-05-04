@@ -1,7 +1,7 @@
 ---
-title: Watching time-lapse Art videos isn't good for you
-published_date: "2020-05-25 00:00:00 +0000"
-layout: post.liquid
+title: "Watching time-lapse Art videos isn't good for you"
+date: "2020-05-25"
+lastmod: :git
 is_draft: false
 ---
 

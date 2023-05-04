@@ -1,6 +1,7 @@
 ---
-title: Art Update
-published_date: 2020-11-30
+title: "Art Update"
+date: "2020-11-30"
+lastmod: :git
 ---
 
 It has been about 5 months since my last post. In that time, I'm kept on trying to improve my skills in art.

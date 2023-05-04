@@ -1,7 +1,8 @@
 ---
-title: Hello World
-published_date: 2020-02-28
+title: "Hello World"
 description: Introduction of xanderjakeq
+date: "2020-02-28"
+lastmod: :git
 ---
 
 Hello World! I am finally writing a blog. Not that I haven't tried doing it before, but its for real this time.

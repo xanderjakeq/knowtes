@@ -1,9 +1,9 @@
 <ul class="section-ul">
-    {{- range . -}}
+    {{- range sort . "Date" "desc" -}}
     <li class="section-li">
         <div class="section">
             <p class="meta">
-                {{partial "date-fmt.html" .}}
+                {{partial "publish-date-fmt.html" .}}
             </p>
             <div class="desc">
               <h3><a href="{{ .Permalink }}" class="internal-link" data-src="{{ .RelPermalink }}">{{- .Title -}}</a></h3>

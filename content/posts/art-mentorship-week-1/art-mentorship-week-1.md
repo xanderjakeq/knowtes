@@ -1,6 +1,7 @@
 ---
-title: Art Mentorship Week One
-published_date: 2020-04-05
+title: "Art Mentorship Week One"
+date: "2020-04-05"
+lastmod: :git
 ---
 
 ![Study5_detailed](study5_detailed.png)

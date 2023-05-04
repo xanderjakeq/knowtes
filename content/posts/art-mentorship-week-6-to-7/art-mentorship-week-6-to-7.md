@@ -1,6 +1,7 @@
 ---
-title: Art Mentorship Week Six to Seven
-published_date: 2020-05-17
+title: "Art Mentorship Week Six to Seven"
+date: "2020-05-17"
+lastmod: :git
 ---
 
 ## Week 6

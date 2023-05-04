@@ -1,6 +1,7 @@
 ---
-title: Art Mentorship Week Three
-published_date: 2020-04-19
+title: "Art Mentorship Week Three"
+date: "2020-04-19"
+lastmod: :git
 ---
 
 I did more of the same exercises as the previous week. Still a bit unproductive though, I got hooked with

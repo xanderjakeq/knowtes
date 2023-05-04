@@ -1,6 +1,7 @@
 ---
 title: "sveltekit-on-cloudfunctions"
-date: "2023-05-04"
+date: "2023-01-11"
+lastmod: :git
 draft: false
 ---
 What about

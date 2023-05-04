@@ -1,6 +1,7 @@
 ---
-title: convoclips
-published_date: 2021-05-04
+title: "convoclips"
+date: "2021-05-04"
+lastmod: :git
 ---
 
 ## Idea

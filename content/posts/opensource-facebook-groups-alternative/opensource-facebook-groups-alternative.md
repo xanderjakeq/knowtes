@@ -1,6 +1,7 @@
 ---
-title: An open source Facebook groups alternative
-published_date: 2020-02-29
+title: "An open source Facebook groups alternative"
+date: "2020-02-29"
+lastmod: :git
 description: Socialli - social lists
 tags: ["Socialli", "Blockstack", "Dapps"]
 ---

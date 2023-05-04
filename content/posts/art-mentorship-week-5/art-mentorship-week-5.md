@@ -1,6 +1,7 @@
 ---
-title: Art Mentorship Week Five
-published_date: 2020-05-03
+title: "Art Mentorship Week Five"
+date: "2020-05-03"
+lastmod: :git
 ---
 
 I feel like I learned a lot this week. I read "Framed Ink" in one day, might have gone through it

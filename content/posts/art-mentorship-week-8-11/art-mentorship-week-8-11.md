@@ -1,6 +1,7 @@
 ---
-title: Art Mentorship Week Eight to Eleven
-published_date: 2020-06-13
+title: "Art Mentorship Week Eight to Eleven"
+date: "2020-06-13"
+lastmod: :git
 ---
 
 # Taking a break

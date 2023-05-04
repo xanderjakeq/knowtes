@@ -1,9 +1,10 @@
 ---
-title: The app that won 15k worth of crypto
-published_date: 2020-03-01
+title: "The app that won 15k worth of crypto"
+date: "2020-03-01"
+lastmod: :git
 ---
 
-![plants illustration](./plants-wide.png)
+![plants illustration](/attachments/plants-wide.png)
 
 
 ## Why

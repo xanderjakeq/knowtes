@@ -1,6 +1,7 @@
 ---
-title: Art Mentorship Week Four
-published_date: 2020-04-26
+title: "Art Mentorship Week Four"
+date: "2020-04-26"
+lastmod: :git
 ---
 
 The problem that came up the previous week is my boring composition. Steven's primary suggestion is

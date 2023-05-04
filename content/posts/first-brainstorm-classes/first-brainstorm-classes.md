@@ -1,6 +1,7 @@
 ---
-title: First Brainstorm Classes
-published_date: 2021-04-04
+title: "First Brainstorm Classes"
+date: "2021-04-04"
+lastmod: :git
 ---
 
 After Anthony Jones’ mentorship, I didn’t know what to do next. I mentioned in
