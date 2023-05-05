@@ -1,6 +1,8 @@
 ---
 title: "helix editor"
 enableToc: false
+date: "2023-05-05"
+lastmod: :git
 tags:
 - tool
 ---

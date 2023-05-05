@@ -1,6 +1,8 @@
 ---
 title: "vim-copy-paste"
 enableToc: false
+date: "2023-05-05"
+lastmod: :git
 tags:
 - tool
 ---

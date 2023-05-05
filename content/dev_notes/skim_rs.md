@@ -1,6 +1,8 @@
 ---
 title: "skim_rs"
 enableToc: false
+date: "2023-05-05"
+lastmod: :git
 tags:
 - tool
 ---

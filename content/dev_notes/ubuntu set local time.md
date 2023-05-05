@@ -1,6 +1,8 @@
 ---
 title: "ubuntu set local time"
 enableToc: false
+date: "2023-05-05"
+lastmod: :git
 tags:
 - linux
 - cli
