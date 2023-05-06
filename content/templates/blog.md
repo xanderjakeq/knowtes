@@ -3,7 +3,7 @@ title: "{{title}}"
 date: "{{date}}"
 lastmod: :git
 draft: true
-enableToc: false
+enableToc: true
 tags:
 - 
 ---

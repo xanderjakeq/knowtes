@@ -71,9 +71,9 @@ I was constantly bothered by something. I didn't know what, but I knew it had
 something to do with perspective. The top of the mirror didn't follow the grid
 properly, the image felt better when I fixed it. See the before and after.
 
-![bad perspective](./bad_perspective.png)
+![bad perspective](attachments/bad_perspective.png)
 
-![better perspective](./good_perspective.png)
+![better perspective](attachments/good_perspective.png)
 
 The change is very small, but it makes the image way better than before. Still
 not the best it could be, there's a lot of room for improvement. I am still

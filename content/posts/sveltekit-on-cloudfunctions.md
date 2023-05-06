@@ -3,6 +3,8 @@ title: "sveltekit-on-cloudfunctions"
 date: "2023-01-11"
 lastmod: :git
 draft: false
+tags:
+- web
 ---
 What about
 [firebase-adapter-node](https://github.com/jthegedus/svelte-adapter-firebase)?
