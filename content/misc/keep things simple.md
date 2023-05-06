@@ -1,5 +1,5 @@
 ---
-title: "keep things as simple"
+title: "keep things simple"
 enableToc: false
 date: "2023-05-05"
 lastmod: :git
