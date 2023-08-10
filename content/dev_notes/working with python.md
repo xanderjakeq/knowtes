@@ -7,9 +7,12 @@ tags:
 - python
 ---
 version manager: [pyenv](https://github.com/pyenv/pyenv)
+
 environment manager: [virtualenv](https://pyinstaller.org/en/stable/development/venv.html)
+
 package manager: [huak](https://github.com/cnpryer/huak)
 - i haven't tested using it yet but looks interesting
+
 bundler: [pyinstaller](https://pyinstaller.org/en/stable/)
 
 pyenv pip problem
