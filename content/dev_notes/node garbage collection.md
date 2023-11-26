@@ -1,3 +1,12 @@
+---
+title: "node garbage collection"
+enableToc: false
+date: "2023-08-10"
+lastmod: :git
+tags:
+- js
+- node
+---
 ```js
 import { setFlagsFromString } from 'v8'; 
 import { runInNewContext } from 'vm'; 
