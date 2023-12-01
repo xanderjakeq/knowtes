@@ -1,7 +1,12 @@
 ---
 tags:
   - art
+title: modelling factors
+enableToc: false
+date: 2023-11-30
+lastmod: :git
 ---
+
 -
 form light
 center light

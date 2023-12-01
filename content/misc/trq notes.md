@@ -6,7 +6,6 @@ lastmod: :git
 tags:
 - project
 ---
-
 use this later: [Authorization Code flow](https://dev.twitch.tv/docs/authentication/getting-tokens-oauth#authorization-code-grant-flow).
 
 twitch access token validation

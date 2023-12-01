@@ -1,6 +1,10 @@
 ---
 tags:
   - movie
+title: i used to be famous
+enableToc: false
+date: 2023-11-30
+lastmod: :git
 ---
 it was very similar to august rush, but more grounded/realistic. it resonated
 a lot to me since the place i work at have the same percussion classes as in the

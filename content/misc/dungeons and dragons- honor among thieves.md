@@ -1,6 +1,10 @@
 ---
 tags:
   - movie
+title: dungeons and dragons- honor among thieves
+enableToc: false
+date: 2023-11-30
+lastmod: :git
 ---
 makes me want to play dnd. i'm sure there are references that i missed
 somewhere, but the story still works even though i don't play dnd

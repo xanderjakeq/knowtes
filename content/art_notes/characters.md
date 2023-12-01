@@ -1,5 +1,13 @@
-start by showing the character's character. design comes later when you've sold 
-the idea of the character. advice from dave rapoza
+---
+title: characters
+enableToc: false
+date: 2023-11-30
+lastmod: :git
+tags:
+  - art
+---
+start by showing the "character's character". design comes later when you've sold 
+the idea of the character. advice from dave rapoza.
 
 cool tools:
 - blender tool - cool to use with normal brushes to create soft edges. '
